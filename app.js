@@ -60,7 +60,7 @@ function filter(filterProperty) {
 
 
 function select() {
-  console.log("selected")
+  alert("You found your package!")
 }
 
 chooseOne()
